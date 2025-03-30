@@ -1,0 +1,151 @@
+visitor_id,visitor_name,gift_id,gift_name,gift_description,gift_category,price,state,suitable_for_profile,preferences,festival,country
+1,Bruce Alan,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Art Collectors & Connoisseurs, Shopoholic, Cultural Enthusiasts, Foodie",2,Baisakhi,Canada
+1,Bruce Alan,9,Brassware from Rajasthan,Intricate brass items from Rajasthan,Home Decor,2500,Rajasthan,"Art Collectors & Connoisseurs, Shopoholic, Cultural Enthusiasts, Foodie",3,Navratri,Canada
+1,Bruce Alan,6,Wooden Sculpture,Carved wooden sculptures,Art,2500,Kashmir,"Art Collectors & Connoisseurs, Shopoholic, Cultural Enthusiasts, Foodie",1,Holi,Canada
+2,Greta Lindberg,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,Luxury Homeowners & Interior Designers,2,Durga Puja,USA
+2,Greta Lindberg,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,Luxury Homeowners & Interior Designers,3,Baisakhi,USA
+2,Greta Lindberg,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,Luxury Homeowners & Interior Designers,1,Navratri,USA
+3,Dimitri Volkov,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Luxury Homeowners & Interior Designers, Shopoholic",2,Baisakhi,Switzerland
+3,Dimitri Volkov,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Luxury Homeowners & Interior Designers, Shopoholic",3,Baisakhi,Switzerland
+3,Dimitri Volkov,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Luxury Homeowners & Interior Designers, Shopoholic",1,Baisakhi,Switzerland
+4,Fatima Aziz,9,Brassware from Rajasthan,Intricate brass items from Rajasthan,Home Decor,2500,Rajasthan,"Luxury Homeowners & Interior Designers, Spiritual Seekers",1,Navratri,Canada
+4,Fatima Aziz,6,Wooden Sculpture,Carved wooden sculptures,Art,2500,Kashmir,"Luxury Homeowners & Interior Designers, Spiritual Seekers",2,Ganesh Chaturthi,Canada
+4,Fatima Aziz,8,Madhubani Painting,Folk art from Bihar,Art,3500,Rajasthan,"Luxury Homeowners & Interior Designers, Spiritual Seekers",3,Holi,Canada
+5,Marco Ricci,6,Wooden Sculpture,Carved wooden sculptures,Art,2500,Kashmir,"Luxury Homeowners & Interior Designers, Spiritual Seekers",2,Holi,Canada
+5,Marco Ricci,15,Lacquer Ware,Traditional lacquer work from Chhattisgarh,Art,1200,Chhattisgarh,"Luxury Homeowners & Interior Designers, Spiritual Seekers",1,Ganesh Chaturthi,Canada
+5,Marco Ricci,9,Brassware from Rajasthan,Intricate brass items from Rajasthan,Home Decor,2500,Rajasthan,"Luxury Homeowners & Interior Designers, Spiritual Seekers",3,Durga Puja,Canada
+6,Alina Petrova,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Shopoholic, Art Collectors & Connoisserurs",2,Navratri,Germany
+6,Alina Petrova,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Shopoholic, Art Collectors & Connoisserurs",3,Ganesh Chaturthi,Germany
+6,Alina Petrova,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Shopoholic, Art Collectors & Connoisserurs",1,Eid,Germany
+7,Ars Evander,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Luxury Homeowners & Interior Designers, Shopoholic",2,Navratri,USA
+7,Ars Evander,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Luxury Homeowners & Interior Designers, Shopoholic",1,Pongal,USA
+7,Ars Evander,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Luxury Homeowners & Interior Designers, Shopoholic",3,Ganesh Chaturthi,USA
+8,Sofia Alarcon,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Luxury Homeowners & Interior Designers, Shopoholic",1,Pongal,Germany
+8,Sofia Alarcon,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Luxury Homeowners & Interior Designers, Shopoholic",2,Eid,Germany
+8,Sofia Alarcon,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Luxury Homeowners & Interior Designers, Shopoholic",3,Baisakhi,Germany
+9,Hiroshi Takahashi,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Art Collectors & Connoisseurs, Foodie",2,Ganesh Chaturthi,Switzerland
+9,Hiroshi Takahashi,15,Lacquer Ware,Traditional lacquer work from Chhattisgar,Art,1200,Chhattisgarh,"Art Collectors & Connoisseurs, Foodie",1,Ganesh Chaturthi,Switzerland
+9,Hiroshi Takahashi,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Foodie",3,Navratri,Switzerland
+10,Amara Suleiman,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Fashion Enthusiasts, Corporate Gifting Buyers",2,Baisakhi,Canada
+10,Amara Suleiman,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Fashion Enthusiasts, Corporate Gifting Buyers",3,Baisakhi,Canada
+10,Amara Suleiman,3,Chikankari Kurta,Embroidered kurta from Lucknow,Clothing,3500,Uttar Pradesh,"Fashion Enthusiasts, Corporate Gifting Buyers",1,Ganesh Chaturthi,Canada
+11,Nikolai Petrov,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Corporate Gifting & Business Travelers, Shopoholic",2,Eid,USA
+11,Nikolai Petrov,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Corporate Gifting & Business Travelers, Shopoholic",1,Ganesh Chaturthi,USA
+11,Nikolai Petrov,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Corporate Gifting & Business Travelers, Shopoholic",3,Navratri,USA
+12,Ingrid rensen,3,Chikankari Kurta,Embroidered kurta from Lucknow,Clothing,3500,Uttar Pradesh,"Tea & Coffee Lovers, Shopoholic",2,Ganesh Chaturthi,Canada
+12,Ingrid rensen,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Tea & Coffee Lovers, Shopoholic",3,Ganesh Chaturthi,Canada
+12,Ingrid rensen,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Shopoholic",1,Navratri,Canada
+13,Matteo Bianchi,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Families & Kids, Cultural Educators & Schools",2,Eid,Germany
+13,Matteo Bianchi,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Families & Kids, Cultural Educators & Schools",3,Ganesh Chaturthi,Germany
+13,Matteo Bianchi,14,Wooden Toys,Handmade wooden toys from Rajasthan,Toys,1500,Rajasthan,"Families & Kids, Cultural Educators & Schools",1,Baisakhi,Germany
+14,Amina Khalid,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",2,Navratri,Germany
+14,Amina Khalid,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",3,Diwali,Germany
+14,Amina Khalid,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",1,Christmas,Germany
+15,Sven Haykansson,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Shopoholic, Foodie",1,Eid,Switzerland
+15,Sven Haykansson,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Shopoholic, Foodie",2,Holi,Switzerland
+15,Sven Haykansson,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Shopoholic, Foodie",3,Navratri,Switzerland
+16,Emilia Kowalski,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Fashion Enthusiasts, Corporate Gifting Buyers",3,Ganesh Chaturthi,USA
+16,Emilia Kowalski,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Fashion Enthusiasts, Corporate Gifting Buyers",2,Navratri,USA
+16,Emilia Kowalski,3,Chikankari Kurta,Embroidered kurta from Lucknow,Clothing,3500,Uttar Pradesh,"Fashion Enthusiasts, Corporate Gifting Buyers",1,Durga Puja,USA
+17,Omar El-Sayed,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Fashion Enthusiasts, Corporate Gifting Buyers",3,Baisakhi,UK
+17,Omar El-Sayed,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Fashion Enthusiasts, Corporate Gifting Buyers",1,Baisakhi,UK
+17,Omar El-Sayed,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Fashion Enthusiasts, Corporate Gifting Buyers",2,Eid,UK
+18,Valeria Dominguez,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Corporate Gifting & Business Travelers",1,Ganesh Chaturthi,Germany
+18,Valeria Dominguez,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Tea & Coffee Lovers, Corporate Gifting & Business Travelers",3,Baisakhi,Germany
+18,Valeria Dominguez,6,Wooden Sculpture,Carved wooden sculptures,Art,2500,Kashmir,"Tea & Coffee Lovers, Corporate Gifting & Business Travelers",2,Diwali,Germany
+19,Rami Haddad,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Art Collectors & Connoisseurs, Corporate Gifting Buyers",3,Baisakhi,Canada
+19,Rami Haddad,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Corporate Gifting Buyers",2,Baisakhi,Canada
+19,Rami Haddad,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Art Collectors & Connoisseurs, Corporate Gifting Buyers",1,Pongal,Canada
+20,Anika Schreiber,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",3,Durga Puja,Germany
+20,Anika Schreiber,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",1,Navratri,Germany
+20,Anika Schreiber,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",2,Ganesh Chaturthi,Germany
+21,Juan Ramirez,15,Lacquer Ware,Traditional lacquer work from Chhattisgarh,Art,1200,Chhattisgarh,"Art Collectors & Connoisseurs, Shopoholic",1,Diwali,USA
+21,Juan Ramirez,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Art Collectors & Connoisseurs, Shopoholic",3,Pongal,USA
+21,Juan Ramirez,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Art Collectors & Connoisseurs, Shopoholic",2,Baisakhi,USA
+22,Linh Nguyen,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Art Collectors & Connoisseurs, Shopoholic",2,Baisakhi,Switzerland
+22,Linh Nguyen,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Art Collectors & Connoisseurs, Shopoholic",3,Eid,Switzerland
+22,Linh Nguyen,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Shopoholic",1,Durga Puja,Switzerland
+23,Stefan Novak,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Luxury Homeowners & Interior Designers, Shopoholic",3,Diwali,Germany
+23,Stefan Novak,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Luxury Homeowners & Interior Designers, Shopoholic",2,Ganesh Chaturthi,Germany
+23,Stefan Novak,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Luxury Homeowners & Interior Designers, Shopoholic",1,Eid,Germany
+24,Elif Demir,6,Wooden Sculpture,Carved wooden sculptures,Art,2500,Kashmir,"Art Collectors & Connoisseurs, Shopoholic",1,Pongal,Canada
+24,Elif Demir,9,Brassware from Rajasthan,Intricate brass items from Rajasthan,Home Decor,2500,Rajasthan,"Art Collectors & Connoisseurs, Shopoholic",3,Durga Puja,Canada
+24,Elif Demir,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Art Collectors & Connoisseurs, Shopoholic",2,Christmas,Canada
+25,Malik Farah,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Art Collectors & Connoisseurs, Shopoholic",1,Baisakhi,Canada
+25,Malik Farah,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Art Collectors & Connoisseurs, Shopoholic",2,Baisakhi,Canada
+25,Malik Farah,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Art Collectors & Connoisseurs, Shopoholic",3,Ganesh Chaturthi,Canada
+26,Camila Almeida,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Shopoholic, Art Collectors & Connoisserurs",1,Navratri,Switzerland
+26,Camila Almeida,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Shopoholic, Art Collectors & Connoisserurs",2,Pongal,Switzerland
+26,Camila Almeida,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Shopoholic, Art Collectors & Connoisserurs",3,Christmas,Switzerland
+27,Andre Dubois,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Tea & Coffee Lovers, Shopoholic",3,Baisakhi,Canada
+27,Andre Dubois,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Shopoholic",1,Pongal,Canada
+27,Andre Dubois,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Tea & Coffee Lovers, Shopoholic",2,Durga Puja,Canada
+28,Leila Karim,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Shopoholic, Foodie",2,Pongal,USA
+28,Leila Karim,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Shopoholic, Foodie",3,Diwali,USA
+28,Leila Karim,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Shopoholic, Foodie",1,Pongal,USA
+29,Hans Maller,6,Wooden Sculpture,Carved wooden sculptures,Art,2500,Kashmir,"Art Collectors & Connoisseurs, Foodie",1,Ganesh Chaturthi,Switzerland
+29,Hans Maller,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Art Collectors & Connoisseurs, Foodie",3,Eid,Switzerland
+29,Hans Maller,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Foodie",2,Eid,Switzerland
+30,Yasmin Abadi,3,Chikankari Kurta,Embroidered kurta from Lucknow,Clothing,3500,Uttar Pradesh,"Shopoholic, Art Collectors & Connoisseur",1,Ganesh Chaturthi,UK
+30,Yasmin Abadi,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Shopoholic, Art Collectors & Connoisseur",3,Diwali,UK
+30,Yasmin Abadi,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Shopoholic, Art Collectors & Connoisseur",2,Christmas,UK
+31,Victor Herrera,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Luxury Homeowners & Interior Designers, Shopoholic",3,Pongal,UK
+31,Victor Herrera,4,Handicraft Item,Handmade Indian crafts,Home Decor,1500,All,"Luxury Homeowners & Interior Designers, Shopoholic",1,Holi,UK
+31,Victor Herrera,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Luxury Homeowners & Interior Designers, Shopoholic",2,Diwali,UK
+32,Elena Papadopoulos,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Shopoholic, Art Collectors & Connoisseur",1,Ganesh Chaturthi,USA
+32,Elena Papadopoulos,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Shopoholic, Art Collectors & Connoisseur",2,Ganesh Chaturthi,USA
+32,Elena Papadopoulos,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Shopoholic, Art Collectors & Connoisseur",3,Navratri,USA
+33,Ali Hussein,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",3,Christmas,Switzerland
+33,Ali Hussein,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",1,Baisakhi,Switzerland
+33,Ali Hussein,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",2,Diwali,Switzerland
+34,Marisol Garcia,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Luxury Homeowners & Interior Designers, Shopoholic",1,Diwali,USA
+34,Marisol Garcia,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Luxury Homeowners & Interior Designers, Shopoholic",2,Ganesh Chaturthi,USA
+34,Marisol Garcia,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Luxury Homeowners & Interior Designers, Shopoholic",3,Durga Puja,USA
+35,Pierre Lafont,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Foodie",1,Holi,Australia
+35,Pierre Lafont,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Art Collectors & Connoisseurs, Foodie",2,Baisakhi,Australia
+35,Pierre Lafont,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Art Collectors & Connoisseurs, Foodie",3,Baisakhi,Australia
+36,Anwar Rashid,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Fashion Enthusiasts, Foodie",3,Ganesh Chaturthi,Germany
+36,Anwar Rashid,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Fashion Enthusiasts, Foodie",2,Navratri,Germany
+36,Anwar Rashid,3,Chikankari Kurta,Embroidered kurta from Lucknow,Clothing,3500,Uttar Pradesh,"Fashion Enthusiasts, Foodie",1,Diwali,Germany
+37,Klara Jansson,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Tea & Coffee Lovers, Shopoholic, Foodie",2,Baisakhi,Switzerland
+37,Klara Jansson,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Shopoholic, Foodie",1,Eid,Switzerland
+37,Klara Jansson,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Tea & Coffee Lovers, Shopoholic, Foodie",3,Baisakhi,Switzerland
+38,Thiago Pereira,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Art Collectors & Connoisseurs, Shopoholic, Foodie",3,Baisakhi,Australia
+38,Thiago Pereira,4,Handicraft Item,Handmade Indian crafts,Home Decor,1500,All,"Art Collectors & Connoisseurs, Shopoholic, Foodie",2,Pongal,Australia
+38,Thiago Pereira,15,Lacquer Ware,Traditional lacquer work from Chhattisgarh,Art,1200,Chhattisgarh,"Art Collectors & Connoisseurs, Shopoholic, Foodie",1,Navratri,Australia
+39,Noor Zaman,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Fashion Enthusiasts, Corporate Gifting Buyers",2,Navratri,UK
+39,Noor Zaman,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Fashion Enthusiasts, Corporate Gifting Buyers",3,Pongal,UK
+39,Noor Zaman,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Fashion Enthusiasts, Corporate Gifting Buyers",1,Durga Puja,UK
+40,Luca Moretti,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",3,Ganesh Chaturthi,Australia
+40,Luca Moretti,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",2,Pongal,Australia
+40,Luca Moretti,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Art Collectors & Connoisseurs",1,Ganesh Chaturthi,Australia
+41,Petra Horvaith,9,Brassware from Rajasthan,Intricate brass items from Rajasthan,Home Decor,2500,Rajasthan,"Art Collectors & Connoisseurs, Shopoholic",3,Holi,Switzerland
+41,Petra Horvaith,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Art Collectors & Connoisseurs, Shopoholic",2,Navratri,Switzerland
+41,Petra Horvaith,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Shopoholic",1,Eid,Switzerland
+42,Faisal Qureshi,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Tea & Coffee Lovers, Shopoholic",2,Diwali,Germany
+42,Faisal Qureshi,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Shopoholic",1,Christmas,Germany
+42,Faisal Qureshi,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Tea & Coffee Lovers, Shopoholic",3,Christmas,Germany
+43,Helena Dumont,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Shopoholic, Foodie",2,Ganesh Chaturthi,Germany
+43,Helena Dumont,6,Wooden Sculpture,Carved wooden sculptures,Art,2500,Kashmir,"Art Collectors & Connoisseurs, Shopoholic, Foodie",1,Durga Puja,Germany
+43,Helena Dumont,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Art Collectors & Connoisseurs, Shopoholic, Foodie",3,Holi,Germany
+44,Bogdan Ionescu,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Corporate Gifting Buyers, Fashion Enthusiasts",2,Christmas,UK
+44,Bogdan Ionescu,9,Brassware from Rajasthan,Intricate brass items from Rajasthan,Home Decor,2500,Rajasthan,"Corporate Gifting Buyers, Fashion Enthusiasts",1,Pongal,UK
+44,Bogdan Ionescu,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Corporate Gifting Buyers, Fashion Enthusiasts",3,Pongal,UK
+45,Zahra Mahmoud,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Tea & Coffee Lovers, Shopoholic, Foodie",2,Ganesh Chaturthi,Canada
+45,Zahra Mahmoud,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Tea & Coffee Lovers, Shopoholic, Foodie",3,Holi,Canada
+45,Zahra Mahmoud,5,Tea Assortment,Variety of Indian teas,Beverage,1200,All,"Tea & Coffee Lovers, Shopoholic, Foodie",1,Holi,Canada
+46,Akio Nakamura,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Art Collectors & Connoisseurs, Shopoholic",2,Ganesh Chaturthi,Switzerland
+46,Akio Nakamura,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Shopoholic",3,Durga Puja,Switzerland
+46,Akio Nakamura,2,Tanjore Painting,South Indian art form,Art,3000,Tamil Nadu,"Art Collectors & Connoisseurs, Shopoholic",1,Eid,Switzerland
+47,Farah Saeed,10,Mysore Sandalwood,Pure sandalwood items from Mysore,Miscellaneous,7000,Karnataka,"Art Collectors & Connoisseurs, Shopoholic",3,Holi,Germany
+47,Farah Saeed,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Art Collectors & Connoisseurs, Shopoholic",1,Durga Puja,Germany
+47,Farah Saeed,1,Silk Saree,Traditional Indian attire,Clothing,5000,Karnataka,"Art Collectors & Connoisseurs, Shopoholic",2,Pongal,Germany
+48,Javier Cruz,12,Banarasi Saree,Traditional handwoven saree from Banaras,Clothing,5000,Uttar Pradesh,"Families & Kids, Shopoholic",3,Holi,Canada
+48,Javier Cruz,9,Brassware from Rajasthan,Intricate brass items from Rajasthan,Home Decor,2500,Rajasthan,"Families & Kids, Shopoholic",2,Holi,Canada
+48,Javier Cruz,14,Wooden Toys,Handmade wooden toys from Rajasthan,Toys,1500,Rajasthan,"Families & Kids, Shopoholic",1,Diwali,Canada
+49,Naoki Fujimoto,14,Wooden Toys,Handmade wooden toys from Rajasthan,Toys,1500,Rajasthan,"Families & Kids, Shopoholic",1,Diwali,Canada
+49,Naoki Fujimoto,11,Pashmina Shawl,Fine quality shawl from Kashmir,Clothing,6000,Kashmir,"Families & Kids, Shopoholic",2,Durga Puja,Canada
+49,Naoki Fujimoto,7,Kashmiri Shawl,Woollen shawl from Kashmir,Clothing,8000,Bihar,"Families & Kids, Shopoholic",3,Ganesh Chaturthi,Canada
+50,Lara Fernandez,6,Wooden Sculpture,Carved wooden sculptures,Art,2500,Kashmir,"Art Collectors & Connoisseurs, Shopoholic",1,Navratri,USA
+50,Lara Fernandez,8,Madhubani Painting,Folk art from Bihar,Art,3500,Bihar,"Art Collectors & Connoisseurs, Shopoholic",2,Christmas,USA
+50,Lara Fernandez,13,Kerala Metal Craft,Metal handicrafts from Kerala,Home Decor,4000,Kerala,"Art Collectors & Connoisseurs, Shopoholic",3,Holi,USA
